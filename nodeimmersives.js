@@ -5,10 +5,8 @@ const first = getInput(0);
 const last = getInput(1);
 
 console.log("---------------------------------------------------");
-console.log(first);
-console.log(last);
 console.log("Hello " + first + " " + last + "! Thanks for using my app!");
-console.log(first.toUpperCase() + " " + last.toUpperCase());
-console.log(first[0] + "." + last[0] + ".")
-console.log(first.toLowerCase() + "." + last.toLowerCase() + "@codeimmersives.com")
+console.log("Let's scream your name! " + first.toUpperCase() + " " + last.toUpperCase());
+console.log("Now here are your initials! " + first[0] + "." + last[0] + ".")
+console.log("Finally here is your new email address! " + first.toLowerCase() + "." + last.toLowerCase() + "@codeimmersives.com")
 console.log("---------------------------------------------------");
