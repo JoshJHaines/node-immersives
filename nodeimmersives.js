@@ -9,6 +9,6 @@ console.log(first);
 console.log(last);
 console.log("Hello " + first + " " + last + "! Thanks for using my app!");
 console.log(first.toUpperCase() + " " + last.toUpperCase());
-console.log("need to create function and call function for initials")
+console.log(first[0] + "." + last[0] + ".")
 console.log(first.toLowerCase() + "." + last.toLowerCase() + "@codeimmersives.com")
 console.log("---------------------------------------------------");
