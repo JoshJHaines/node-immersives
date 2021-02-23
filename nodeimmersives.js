@@ -7,5 +7,6 @@ const last = getInput(1);
 console.log("---------------------------------------------------");
 console.log(first);
 console.log(last);
-console.log("Hello " + first + " " + last + "! Thanks for using my app!"
+console.log("Hello " + first + " " + last + "! Thanks for using my app!");
+console.log(first.toUpperCase() + " " + last.toUpperCase());
 console.log("---------------------------------------------------");
